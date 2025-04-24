@@ -1,5 +1,7 @@
-# This is an `<h1>` header, which is the largest
+# *Bắt đầu với Markdown*
 
-## This is an `<h2>` header
+## Đây là tiêu đề `<H2>`
 
-###### This is an `<h6>` header, which is the smallest
+###### __Hình ảnh của Yatocat__
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
